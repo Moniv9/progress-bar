@@ -1,3 +1,3 @@
-# typescript-wzitj5
+#Progress Bar
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/typescript-wzitj5)
+Javascript lib to show custom progress bar on your parent app
