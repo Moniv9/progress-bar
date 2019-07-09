@@ -1,3 +1,3 @@
-#Progress Bar
+# Custom Progress Bar
 
-Javascript lib to show custom progress bar on your parent app
+Custom typescript progress bar which can be used on your parent app.

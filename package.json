@@ -1,6 +1,23 @@
 {
-  "name": "typescript",
-  "version": "0.0.0",
-  "private": true,
-  "dependencies": {}
+  "name": "custom-typescript-progress-bar",
+  "version": "1.0.0",
+  "private": false,
+  "dependencies": {},
+  "description": "custom typescript progress bar",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moniv9/progress-bar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moniv9/progress-bar/issues"
+  },
+  "homepage": "https://github.com/Moniv9/progress-bar#readme"
 }
